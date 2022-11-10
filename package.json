@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ramalimanov/Profile-Generator-Ramal#readme",
   "dependencies": {
     "axios": "^0.19.0",
-    "electron": "^7.1.0",
+    "electron": "^18.3.7",
     "html-pdf": "^2.2.0",
     "inquirer": "^7.0.0"
   }
